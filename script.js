@@ -21,7 +21,7 @@ function openLetter() {
 }
 
 /* Slideshow */
-let images = ["photo1.jpg", "photo2.jpg", "photo3.jpg"];
+let images = ["image1.jpeg", "image2.jpeg", "image3.jpeg"];
 let index = 0;
 
 function startSlideshow() {
